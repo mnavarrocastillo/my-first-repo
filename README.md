@@ -1,2 +1,2 @@
 # my-first-repo
-A brief description of my academic career.
+I am an MSBA student from Nicaragua.
